@@ -1,5 +1,4 @@
-# axels__rn_navigation
-axels react native navigation
+react native navigation
 first step install expo on your machine
 
 ##Requared:
